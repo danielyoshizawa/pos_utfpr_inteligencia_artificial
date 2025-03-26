@@ -1,2 +1,5 @@
 .venv
 .pyenv
+
+# Ignore Windows Zone.Identifier files
+*:Zone.Identifier
